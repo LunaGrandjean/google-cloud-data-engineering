@@ -1,0 +1,8 @@
+﻿.venv/
+
+# Generated datasets
+*.csv
+*.parquet
+legacy_csv/by_day/
+legacy_csv/by_day_product/
+
